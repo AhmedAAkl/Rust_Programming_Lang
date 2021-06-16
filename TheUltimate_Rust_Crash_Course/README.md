@@ -1,5 +1,7 @@
 # Ultimate Rust Crash Course
 
+## This is an implementation for the exercises in the Rust Course in Udemy.
+
 This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
 live at O'Reilly virtual events, or in person.  You will get the most out of this training 
 experience by trying to accomplish the [exercises] in this repository and watching (or attending)
